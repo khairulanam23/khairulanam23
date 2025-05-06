@@ -21,6 +21,7 @@
 - 📫 How to reach me: **mka.rifat.24@gmail.com**
 
 ---
+<!--
 <h3 align="center">📬 Connect with Me</h3>
 
 <p align="center">
@@ -38,7 +39,7 @@
 </p>
 
 ---
-
+-->
 ### 🛠️ Languages and Tools:
 
 <table align="center">
