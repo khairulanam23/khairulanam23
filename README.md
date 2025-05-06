@@ -94,16 +94,3 @@
     </td>
   </tr>
 </table>
-
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairulanam23&show_icons=true&locale=en" alt="khairulanam23" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khairulanam23&show_icons=true&locale=en&layout=compact" alt="khairulanam23" />
-</p>
